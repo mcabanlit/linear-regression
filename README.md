@@ -1,4 +1,6 @@
-# Linear Regression
+# Linear Regression [![gcash donation][1]][2] [![paypal donation][3]][4]
+
+[![python version][7]][8]  [![scikit version][11]][12] 
 
 For this linear regression example, we will be using the heart disease dataset, which is a public health dataset that can be retrieved from [Kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset).
 
